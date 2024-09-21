@@ -1,0 +1,64 @@
+.arrowButton {
+    color: white;
+    rotate: -45deg;
+    margin-right: 5px;
+    height: 20px;
+}
+
+.detailsHeaderMenu {
+    background-color: #e33675;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.textMenu {
+
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+}
+
+.textMenu:hover, .shopHeaderMenu:hover {
+    text-decoration: underline;
+    color: #fff;
+}
+
+.yogarbarIcon{
+    height: 90px;
+    margin-top: 10px;
+
+}
+
+.shopHeaderMenu {
+    position: absolute;
+    left: 50px;
+}
+
+.adminAndCartMenu {
+    position: absolute;
+    right: 50px;
+}
+
+.headerIcon {
+    color: white;
+    margin-right: 30px;
+    height: 20px;
+}
+
+.cartIcon {
+    color: white;
+    margin-left: 4px;
+    margin-right: 30px;
+    height: 20px;
+}
+
+.yogaBanner{
+    height: 100%;
+    width: 100%;
+}
